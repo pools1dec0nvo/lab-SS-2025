@@ -5,6 +5,7 @@ t = (0:1/samplerate:2)';
 f1 = 30;
 f2 = 35;
 
+x = cos(2*pi*f1*t) + cos(2*pi*f2*t);
 % Q1.2 - Parte 1
 % vetor de índices (amostras)
 n = 0:length(x)-1;

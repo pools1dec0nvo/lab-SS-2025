@@ -1,0 +1,21 @@
+Lista de questões para o relatório e preparação prévia das sessões laboratoriais
+
+Todas as questões abaixo deverão ser endereçadas no relatório final, seja através de derivação formal de resultados, seja através da exibição de resultados obtidos experimentalmente juntamente com a interpretação do seu significado
+
+1. Sinais
+Q1.1; Q1.2; Q1.4 (TPC da sessão 1 para a 2)
+
+2. Sistemas
+Q2.3; Q2.4 (TPC da sessão 2 para a 3); Q2.5 (TPC da sessão 2 para a 3)
+
+3. Série de Fourier
+Q3.2 (Aplicado ao sinal de Q3.1 e/ou Q3.3?); Q3.3 (TPC da sessão 3 para a 4)
+
+4. Resposta em frequência
+Q4.1; Q4.4 (TPC da sessão 4 para a 5); Q4.5 (TPC da sessão 4 para a 5)
+
+5. Filtragem e Amostragem I
+Q5.2; Q5.3 (TPC da sessão 5 para a 6)
+
+6. Filtragem e Amostragem II
+Q6.2; Q6.3 (TPC da sessão para relatório?)
