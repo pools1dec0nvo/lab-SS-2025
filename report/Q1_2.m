@@ -1,7 +1,7 @@
 samplerate = 16e3;
 t = (0:1/samplerate:2)';
 
-% Frequências
+% Frequências fixes
 f1 = 30;
 f2 = 35;
 
